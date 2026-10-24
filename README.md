@@ -91,3 +91,7 @@ The notebook is organized into 12 documented sections covering setup, dataset lo
 ## 📄 License
 
 This project is open-sourced for educational purposes. Please credit the [original Kaggle dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) if you reuse it.
+
+## 👥 Contributors
+   - Gerges ([@Gerges1245](https://github.com/Gerges1245))
+   - Mohamed Bahaa ([@MB1382005](https://github.com/MB1382005))
